@@ -1,0 +1,23 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to NetThings",
+        "description": "Enter the hostname or IP address of your NetThings energy meter.",
+        "data": {
+          "host": "Host"
+        },
+        "data_description": {
+          "host": "The hostname or IP address of the NetThings meter."
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Unable to connect to the NetThings meter.",
+      "unknown": "An unexpected error occurred."
+    },
+    "abort": {
+      "already_configured": "This NetThings meter is already configured."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "netthings",
+  "name": "NetThings Energy Monitor",
+  "version": "2.0",
+  "documentation": "https://github.com/stammersscott/ha-netthings",
+  "issue_tracker": "https://github.com/stammersscott/ha-netthings/issues",
+  "requirements": [
+    "python-socketio[client]==4.6.1"
+  ],
+  "dependencies": [],
+  "codeowners": ["@stammersscott"],
+  "config_flow": true,
+  "iot_class": "local_push"
+}
