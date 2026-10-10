@@ -6,7 +6,7 @@
 
 A custom integration for **Home Assistant** to monitor real-time electricity and utility consumption data from a local **NetThings Energy Manager**.
 
-This component listens to your local hardware's internal Websocket to record sensor metrics without relying on deprecated cloud endpoints or firewalled servers.
+This component listens to your local hardware's internal Websocket to record sensor metrics.
 
 ## Features
 
