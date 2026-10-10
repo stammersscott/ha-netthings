@@ -45,8 +45,7 @@ Once installed and restarted, configure the integration directly through the Hom
 2. Click **+ Add Integration** in the bottom-right corner.
 3. Search for **NetThings Energy Manager** and select it.
 4. Provide the configuration details requested by the setup wizard:
-   - **Host / IP Address:** The local network static IP address of your NetThings unit (often broadcasts an SSID starting with `NT_` during initial setup).
-   - **Scan Interval (Seconds):** How frequently Home Assistant should pull live sensor data (Default is 30 seconds).
+   - **Host / IP Address:** The local network IP address of your NetThings unit (This should be reserved by your DHCP server so it doesnt change IP).
 5. Click **Submit**.
 
 ---
