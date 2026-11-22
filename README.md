@@ -19,9 +19,11 @@ This component listens to your local hardware's internal Websocket to record sen
 
 ## Installation
 
-### Method 1: Via HACS (Recommended)
+[![Open your Home Assistant instance and open a repository in the Marketplace.](https://my.home-assistant.io/badges/marketplace_repository.svg)](https://my.home-assistant.io/redirect/marketplace_repository/?owner=stammersscott&repository=ha-netthings)
 
-1. Open **Home Assistant** and navigate to the **HACS** (Home Assistant Community Store) panel.
+### Method 1: Via HACS / Marketplace (Recommended)
+
+1. Open **Home Assistant** and navigate to the **HACS** / **Marketplace**  panel.
 2. Click the three dots in the top right corner and select **Custom repositories**.
 3. Paste the URL of this repository: `https://github.com/stammersscott/ha-netthings`
 4. Choose **Integration** as the category, then click **Add**.
