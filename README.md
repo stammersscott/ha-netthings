@@ -1,10 +1,10 @@
-# NetThings Energy Manager Integration for Home Assistant
+# NetThings Energy Monitor Integration for Home Assistant
 
 [![GitHub Release](https://shields.io)](https://github.com)
 [![License: GPL v3](https://shields.io)](https://github.com)
 [![hacs_badge](https://shields.io)](https://github.com)
 
-A custom integration for **Home Assistant** to monitor real-time electricity and utility consumption data from a local **NetThings Energy Manager**.
+A custom integration for **Home Assistant** to monitor real-time electricity and utility consumption data from a local **NetThings Energy Monitor**.
 
 This component listens to your local hardware's internal Websocket to record sensor metrics.
 
@@ -25,7 +25,7 @@ This component listens to your local hardware's internal Websocket to record sen
 2. Click the three dots in the top right corner and select **Custom repositories**.
 3. Paste the URL of this repository: `https://github.com/stammersscott/ha-netthings`
 4. Choose **Integration** as the category, then click **Add**.
-5. Find **NetThings Energy Manager** in the HACS interface and click **Download**.
+5. Find **NetThings Energy Monitor** in the HACS interface and click **Download**.
 6. **Restart Home Assistant** to initialize the component.
 
 ### Method 2: Manual Installation
@@ -43,7 +43,7 @@ Once installed and restarted, configure the integration directly through the Hom
 
 1. In Home Assistant, go to **Settings** ➔ **Devices & Services**.
 2. Click **+ Add Integration** in the bottom-right corner.
-3. Search for **NetThings Energy Manager** and select it.
+3. Search for **NetThings Energy Monitor** and select it.
 4. Provide the configuration details requested by the setup wizard:
    - **Host / IP Address:** The local network IP address of your NetThings unit (This should be reserved by your DHCP server so it doesnt change IP).
 5. Click **Submit**.
