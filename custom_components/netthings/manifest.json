@@ -1,6 +1,9 @@
 {
   "domain": "netthings",
   "name": "NetThings Energy Monitor",
+  "categories": [
+    "energy.meters_monitoring"
+  ],
   "codeowners": ["@stammersscott"],
   "config_flow": true,
   "dependencies": [],
