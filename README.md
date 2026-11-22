@@ -1,8 +1,8 @@
 # NetThings Energy Monitor Integration for Home Assistant
 
-[![GitHub Release](https://shields.io)](https://github.com)
-[![License: GPL v3](https://shields.io)](https://github.com)
-[![hacs_badge](https://shields.io)](https://github.com)
+[![GitHub Release](https://img.shields.io/github/v/release/stammersscott/ha-netthings?style=flat-square)](https://github.com)
+[![License: GPL v3](https://img.shields.io/github/license/stammersscott/ha-netthings?style=flat-square)](https://github.com)
+[![hacs_badge](https://img.shields.io/badge/HACS-Custom-orange.svg?style=flat-square)](https://github.com)
 
 A custom integration for **Home Assistant** to monitor real-time electricity and utility consumption data from a local **NetThings Energy Monitor**.
 
