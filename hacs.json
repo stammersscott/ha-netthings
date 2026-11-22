@@ -1,4 +1,6 @@
 {
-  "name": "NetThings Energy Manager",
-  "render_readme": true
+  "name": "NetThings Energy Monitor",
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "netthings.zip"
 }
